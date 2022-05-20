@@ -1,16 +1,13 @@
-# flutter_application_test_work
+งานส่วนที่สามารถทำได้ทันเวลา
+https://drive.google.com/file/d/1XqjvLNaWIxxAou7B9DBIUqlfNTrRklQJ/view?usp=sharing
 
-A new Flutter project.
+แบ่งเป็น2ส่วน 
+ส่วนที่1 หน้า main เพื่อเรียกแสดง class ที่ต้องการแสดง
+ส่วนที่2 เป็นส่วนของหน้า Search 
+โดยจะทำการเรียกข้อมูล Json ที่เป็นไฟล์ซึ่งเป็นตัวตนแบ่งมาแสดงข้อมูลและทำการค้นหาข้อมูลโดยค้นหาชื่อร้าน
+** อธิบายส่วนต่างๆ =  https://docs.google.com/document/d/1TScygo2-g8OKdHsn5waJRLo9gP_oeJyU/edit?usp=sharing&ouid=112968556333903897180&rtpof=true&sd=true
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*** ต้องขอโทษพี่ด้วยน่ะครับที่ทำได้น้อยมากเนื่องจากได้แบบทดสอบมาเมื่อวานตอนเย็น และวันที่ทำตรงกับวันที่ผมบวชพระด้วย จึงไม่สามารถทำได้อย่างเต็มที ***
+ขอบพระคุณพี่มากๆๆเลยครับที่ให้โอกาศผมได้มีการทำทดสอบนี้ 
+                                              *** นาย  ธนภัทร์  ปิ่นทอง ***
